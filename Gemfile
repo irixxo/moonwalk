@@ -2,4 +2,4 @@
 
 source "https://rubygems.org"
 gem "moonwalk"
-gem "github-pages"
+
